@@ -26,20 +26,12 @@ Open to **Software Development**, **AI Projects**, **Freelance Work**, **Website
 
 
 
-🔭 **Building:** Scalable Full-Stack Applications, AI-Powered Products & Modern Web Experiences.
-
 
 
 🌱 **Learning:** Artificial Intelligence, LLMs, Cloud Engineering, DevOps, and Distributed Systems.
 
 
-
-👯 **Collaborating On:** Open Source, AI Projects, SaaS Platforms, and High-Performance Web Applications.
-
-
-
 🤝 **Seeking Guidance In:** System Design, Cloud Infrastructure, and Advanced AI Engineering.
-
 
 
 💬 **Ask Me About:** React, Next.js, Node.js, JavaScript, AI, GitHub, Web Development, and Logistics Technology.

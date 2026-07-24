@@ -3,42 +3,24 @@
 **🇮🇳 From India | 🇦🇪 Based in Dubai
 
 
-
 🚢 Freight & Logistics Specialist
-
 💻 Website Designer & Developer
-
 🤖 AI & Full-Stack Development Enthusiast
-
 🤝 Customer Service Professional**
 
 
 
 📬 Let's Build Something Amazing Together
-
-
-
 ✉️ **Email:** **<heenarather408@gmail.com>**
-
-
-
 Open to **Software Development**, **AI Projects**, **Freelance Work**, **Website Development**, **Freight & Logistics Technology**, and exciting collaboration opportunities.
 
 
 
 
-
 🌱 **Learning:** Artificial Intelligence, LLMs, Cloud Engineering, DevOps, and Distributed Systems.
-
-
 🤝 **Seeking Guidance In:** System Design, Cloud Infrastructure, and Advanced AI Engineering.
-
-
 💬 **Ask Me About:** React, Next.js, Node.js, JavaScript, AI, GitHub, Web Development, and Logistics Technology.
 
-
-
-📫 **Email:** **<heenarather408@gmail.com**
 
 
 

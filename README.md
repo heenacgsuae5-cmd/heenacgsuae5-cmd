@@ -18,7 +18,9 @@ Open to **Software Development**, **AI Projects**, **Freelance Work**, **Website
 
 
 🌱 **Learning:** Artificial Intelligence, LLMs, Cloud Engineering, DevOps, and Distributed Systems.
+
 🤝 **Seeking Guidance In:** System Design, Cloud Infrastructure, and Advanced AI Engineering.
+
 💬 **Ask Me About:** React, Next.js, Node.js, JavaScript, AI, GitHub, Web Development, and Logistics Technology.
 
 

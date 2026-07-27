@@ -1,15 +1,18 @@
 # 💫 Hi 👋, I'm Heena Rather
 
 **🇮🇳 From India | 🇦🇪 Based in Dubai
-
+                                                           
 
 🚢 Freight & Logistics Specialist
 💻 Website Designer & Developer
 🤖 AI & Full-Stack Development Enthusiast
 🤝 Customer Service Professional**
 
+<div align="center">
 
+<img src="https://i.pinimg.com/vwebp/736x/0d/b6/ad/0db6ada4d0fbd1d2e242a5dd67c9917b.webp" width="100%"/>
 
+</div>
 <div align="center">
 
 <img width="100%" height="80%" alt="heena-banner" src="YOUR_BANNER_IMAGE_LINK_HERE" />

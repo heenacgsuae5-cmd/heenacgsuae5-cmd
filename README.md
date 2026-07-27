@@ -144,7 +144,11 @@ Connecting technical knowledge with real-world industries to create efficient so
 
 <td width="45%" align="center">
 
-<img src="YOUR_LOGISTICS_IMAGE" width="80%"/>
+<img src="<div align="center">
+
+<img src="https://i.pinimg.com/vwebp/1200x/85/3a/0c/853a0cf21d8a18c631207db609b32803.webp" width="100%"/>
+
+</div>" width="80%"/>
 
 </td>
 
@@ -194,7 +198,11 @@ Logistics | Supply Chain | Freight Forwarding
 <td width="45%" align="center">
 
 
-<img src="YOUR_PROJECT_IMAGE" width="100%"/>
+<img src="<div align="center">
+
+<img src="https://i.pinimg.com/736x/4c/16/38/4c163878a7051e856deafea06df09615.jpg" width="100%"/>
+
+</div>" width="100%"/>
 
 
 </td>

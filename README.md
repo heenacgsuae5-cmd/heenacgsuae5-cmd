@@ -10,27 +10,347 @@
 
 
 
-📬 Let's Build Something Amazing Together
-✉️ **Email:** **<heenarather408@gmail.com>**
+<div align="center">
+
+<img width="100%" height="80%" alt="heena-banner" src="YOUR_BANNER_IMAGE_LINK_HERE" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Oswald&weight=600&duration=4000&pause=250&width=700&lines=Heena+Rather;Freight+Broker+%7C+Logistics+Professional;Frontend+Developer+%7C+React;From+Circuits+to+Cargo+to+Code" />
+
+<br><br>
+
+</div>
+
+
+# <img width="5%" src="https://raw.githubusercontent.com/hak553/photoToProfile/main/Sparkles.svg" align="center"/> About Me
+
+From **circuits ⚡ to cargo 🚢 to code 💻**
+
+I am Heena Rather, a Dubai-based professional working at the intersection of **logistics, engineering, and technology**.
+
+With a background in **Electrical Engineering** and experience in **customer service, operations, and international freight forwarding**, I enjoy solving real-world problems and building digital solutions.
+
+<br>
+
+*What I'm building?*
+
+<br>
+
+<img align="right" width="33%" src="YOUR_DEVELOPER_IMAGE_LINK" />
+
+
+**🚢 Freight & Logistics Solutions:**  
+Managing international shipments across **Air Freight, Sea Freight, and Land Freight**, including quotations, documentation, client coordination, and supply chain operations.
+
+<br>
+
+**💻 Web Development Projects:**  
+Building modern websites and applications using:
+
+`React` `JavaScript` `HTML` `CSS` `Tailwind CSS`
+
+<br>
+
+**🌐 Digital Experiences:**  
+Creating portfolio websites, UI experiments, and technology solutions that combine design, functionality, and business needs.
+
+<br>
+
+**⚡ Engineering Mindset:**  
+Connecting technical knowledge with real-world industries to create efficient solutions.
+
+<br>
+
+
+<div align="center">
+
+> Always learning, always building — exploring the intersection of logistics, technology, and innovation.
+
+</div>
+
+
+<br>
+
+
+<div align="center">
+
+## Connect With Me
+
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/-LinkedIn-18181B?style=social&logo=linkedin&logoColor=0077B5"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/heenaratherops">
+<img src="https://img.shields.io/badge/-GitHub-18181B?style=social&logo=github"/>
+</a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="YOUR_PORTFOLIO">
+<img src="https://img.shields.io/badge/-Portfolio-18181B?style=social&logo=googlechrome"/>
+</a>
+
+
+</div>
+
+
+<br><hr><br>
+
+
+<div align="center">
+
+
+## ⚡ Languages & Tools
+
+
+<img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+
+<img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+
+<img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+
+<img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+
+<img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"/>
+
+<img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+
+<img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
+
+<img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+
+<img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+
+<img width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+
+
+</div>
+
+
+<br><hr><br>
+
+
+# 🚢 Logistics Experience
+
+
+<table align="center" width="100%">
+
+<tr>
+
+<td width="45%" align="center">
+
+<img src="YOUR_LOGISTICS_IMAGE" width="80%"/>
+
+</td>
+
+
+<td width="55%">
+
+<h3>International Freight Operations</h3>
+
+
+Managing:
+
+- Ocean Freight
+- Air Freight
+- Land Transportation
+- Import & Export Shipments
+- Customs Documentation
+- Client Relationship Management
+- Freight Quotations
+
+
+<b>Industry:</b>
+
+Logistics | Supply Chain | Freight Forwarding
+
+
+</td>
+
+</tr>
+
+</table>
+
+
+
+<br><hr><br>
+
+
+
+# 💻 Web Development Projects
+
+
+<table align="center" width="100%">
+
+
+<tr>
+
+
+<td width="45%" align="center">
+
+
+<img src="YOUR_PROJECT_IMAGE" width="100%"/>
+
+
+</td>
+
+
+
+<td width="55%">
+
+
+<h3>Freight Broker Website</h3>
+
+
+A modern logistics website built to showcase freight services, shipment solutions, and digital presence.
+
+
+<b>Built With:</b>
+
+`React` `JavaScript` `CSS` `Tailwind`
+
+
+<br>
+
+
+<a href="YOUR_GITHUB_PROJECT">
+
+<img src="https://img.shields.io/badge/View_Source_Code-18181B?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+
+</td>
+
+
+</tr>
+
+
+</table>
+
+
+
+<br><hr><br>
+
+
+
+# 🎓 Education & Professional Journey
+
+
+<table align="center" width="100%">
+
+
+<tr>
+
+<td width="20%" align="center">
+
+⚡
+
+</td>
+
+
+<td width="80%">
+
+
+<h3>Electrical Engineering Background</h3>
+
+
+Built a foundation in technical problem solving, analytical thinking, and engineering concepts.
+
+
+<br>
+
+
+<h3>Professional Experience</h3>
+
+
+Dubai, UAE
+
+- Freight Broker
+- International Freight Coordinator
+- Operations & Customer Service
+
+
+</td>
+
+
+</tr>
+
+
+</table>
+
+
+
+<br><hr><br>
+
+
+
+# 📊 GitHub Stats & Activity
+
+
+<div align="center">
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=heenaratherops&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=heenaratherops&layout=compact&theme=tokyonight&hide_border=true"/>
+
+
+</div>
+
+
+
+<br>
+
+
+<div align="center">
+
+
+<img src="https://raw.githubusercontent.com/heenaratherops/heenaratherops/output/github-snake-dark.svg" width="100%"/>
+
+
+</div>
+
+
+
+<br><hr><br>
+
+
+
+<div align="center">
+
+
+<h3>
+
+⚡ Thanks for visiting my profile 🚢
+
+</h3>
+
+
+<p>
+
+Building solutions where **Engineering meets Logistics and Technology**.
+
+</p>
+
+
+<b>
+
+Happy Building 🚀
+
+</b>
+
+
+</div>*Email:** **<heenarather408@gmail.com>**
 Open to **Software Development**, **AI Projects**, **Freelance Work**, **Website Development**, **Freight & Logistics Technology**, and exciting collaboration opportunities.
 
 
 
 
-🌱 **Learning:** Artificial Intelligence, LLMs, Cloud Engineering, DevOps, and Distributed Systems.
 
-🤝 **Seeking Guidance In:** System Design, Cloud Infrastructure, and Advanced AI Engineering.
-
-💬 **Ask Me About:** React, Next.js, Node.js, JavaScript, AI, GitHub, Web Development, and Logistics Technology.
-
-
-
-
-🌍 **Location:** Dubai, UAE 🇦🇪 | Originally From India 🇮🇳
-
-
-
-⚡ **Philosophy:** *Build with purpose. Learn continuously. Ship impactful solutions.*
 
 ## 🌐 Socials:
 

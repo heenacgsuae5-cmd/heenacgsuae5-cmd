@@ -15,7 +15,7 @@
 </div>
 <div align="center">
 
-<img width="100%" height="80%" alt="heena-banner" src="YOUR_BANNER_IMAGE_LINK_HERE" />
+<img width="100%" height="80%" alt="heena-banner" src="https://i.pinimg.com/vwebp/736x/eb/b4/74/ebb47492ebc7a4fb307ab279e6db634c.webp" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Oswald&weight=600&duration=4000&pause=250&width=700&lines=Heena+Rather;Freight+Broker+%7C+Logistics+Professional;Frontend+Developer+%7C+React;From+Circuits+to+Cargo+to+Code" />
 

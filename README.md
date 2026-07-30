@@ -47,14 +47,17 @@ With a background in **Electrical Engineering** and experience in **customer ser
 <img align="right" width="33%" src="[YOUR_DEVELOPER_IMAGE_LINK](https://heena-freight-broker.vercel.app/)" />
 
 
-🚢 Freight & Logistics Solutions: 🌐 Independent Venture | Logistics & Digital Solutions
+## 🚀 What I'm Building?
 
-Designed and developed independently to strengthen brand visibility, generate business opportunities, and connect with global clients through digital solutions.
+Building an independent digital presence that connects global logistics expertise with modern technology.
 
-✓ Branding & Online Presence  
-✓ Lead Generation  
-✓ Business Development  
-✓ Global Networking
+Currently focused on:
+
+🌐 A logistics-focused platform to generate business opportunities  
+🚢 Smarter freight solutions for global trade  
+💻 Digital experiences and web solutions  
+🤝 Stronger connections with clients and partners
+
 <br>
 
 **💻 Web Development Projects:**  
@@ -146,14 +149,14 @@ Connecting technical knowledge with real-world industries to create efficient so
 <br><hr><br>
 
 
-# 🚢 Logistics Experience
+# 🚢 Freight & Logistics Solutions: 🌐 Independent Venture | Logistics & Digital Solutions
 
+Designed and developed independently to strengthen brand visibility, generate business opportunities, and connect with global clients through digital solutions.
 
-<td width="45%" align="center">
-
-<a href="https://heena-freight-broker.vercel.app/" target="_blank">
-  <img src="https://i.pinimg.com/vwebp/1200x/85/3a/0c/853a0cf21d8a18c631207db609b32803.webp" width="80%" />
-</a>
+✓ Branding & Online Presence
+✓ Lead Generation
+✓ Business Development
+✓ Global Networking
 
 </td>
 

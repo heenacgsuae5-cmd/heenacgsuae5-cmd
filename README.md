@@ -144,22 +144,14 @@ Connecting technical knowledge with real-world industries to create efficient so
 # 🚢 Logistics Experience
 
 
-<table align="center" width="100%">
-
-<tr>
-
 <td width="45%" align="center">
 
-<img src="<div align="center">
-
-<img src="https://i.pinimg.com/vwebp/1200x/85/3a/0c/853a0cf21d8a18c631207db609b32803.webp" width="100%"/>
-
-</div>" width="80%"/>
+<a href="https://heena-freight-broker.vercel.app/" target="_blank">
+  <img src="https://i.pinimg.com/vwebp/1200x/85/3a/0c/853a0cf21d8a18c631207db609b32803.webp" width="80%" />
+</a>
 
 </td>
 
-
-<td width="55%">
 
 <h3>International Freight Operations</h3>
 

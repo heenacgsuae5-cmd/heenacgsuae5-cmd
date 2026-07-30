@@ -4,9 +4,9 @@
 </p>
 
 <br>
-# 💫 Hi 👋, I'm Heena Rather
+💫 Hi 👋, I'm Heena Rather
 
-**🇮🇳 From India | 🇦🇪 Based in Dubai
+🇮🇳 From India | 🇦🇪 Based in Dubai
                                                            
 
 🚢 Freight & Logistics Specialist
@@ -40,55 +40,7 @@ With a background in **Electrical Engineering** and experience in **customer ser
 
 <br>
 
-*What I'm building?*
 
-<br>
-
-<img align="right" width="33%" src="[YOUR_DEVELOPER_IMAGE_LINK](https://heena-freight-broker.vercel.app/)" />
-
-
-## 🚀 What I'm Building?
-
-Building an independent digital presence that connects global logistics expertise with modern technology.
-
-Currently focused on:
-
-🌐 A logistics-focused platform to generate business opportunities  
-🚢 Smarter freight solutions for global trade  
-💻 Digital experiences and web solutions  
-🤝 Stronger connections with clients and partners
-
-<br>
-
-**💻 Web Development Projects:**  
-Building modern websites and applications using:
-
-`React` `JavaScript` `HTML` `CSS` `Tailwind CSS`
-
-<br>
-
-**🌐 Digital Experiences:**  
-Creating portfolio websites, UI experiments, and technology solutions that combine design, functionality, and business needs.
-
-<br>
-
-**⚡ Engineering Mindset:**  
-Connecting technical knowledge with real-world industries to create efficient solutions.
-
-<br>
-
-
-<div align="center">
-
-> Always learning, always building — exploring the intersection of logistics, technology, and innovation.
-
-</div>
-
-
-<br>
-
-
-<div align="center">
 
 ## Connect With Me
 

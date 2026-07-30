@@ -47,9 +47,14 @@ With a background in **Electrical Engineering** and experience in **customer ser
 <img align="right" width="33%" src="[YOUR_DEVELOPER_IMAGE_LINK](https://heena-freight-broker.vercel.app/)" />
 
 
-**🚢 Freight & Logistics Solutions:**  
-Managing international shipments across **Air Freight, Sea Freight, and Land Freight**, including quotations, documentation, client coordination, and supply chain operations.
+🚢 Freight & Logistics Solutions: 🌐 Independent Venture | Logistics & Digital Solutions
 
+Designed and developed independently to strengthen brand visibility, generate business opportunities, and connect with global clients through digital solutions.
+
+✓ Branding & Online Presence  
+✓ Lead Generation  
+✓ Business Development  
+✓ Global Networking
 <br>
 
 **💻 Web Development Projects:**  

@@ -1,9 +1,9 @@
+
 <p align="center">
   <img src="./heena.gif" width="100%" alt="Heena Rather Banner">
 </p>
 
 <br>
-
 # 💫 Hi 👋, I'm Heena Rather
 
 **🇮🇳 From India | 🇦🇪 Based in Dubai

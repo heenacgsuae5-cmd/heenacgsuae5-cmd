@@ -153,6 +153,14 @@ Connecting technical knowledge with real-world industries to create efficient so
 
 Designed and developed independently to strengthen brand visibility, generate business opportunities, and connect with global clients through digital solutions.
 
+<td width="45%" align="center">
+
+<a href="https://heena-freight-broker.vercel.app/" target="_blank">
+  <img src="https://i.pinimg.com/vwebp/1200x/85/3a/0c/853a0cf21d8a18c631207db609b32803.webp" width="80%" />
+</a>
+
+</td>
+
 ✓ Branding & Online Presence
 ✓ Lead Generation
 ✓ Business Development

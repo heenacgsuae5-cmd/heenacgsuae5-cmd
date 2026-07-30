@@ -97,11 +97,10 @@ With a background in **Electrical Engineering** and experience in **customer ser
 
 </div>
 
+## 🚀 Featured Work
 
-<br><hr><br>
 
-
-# 🚢 Freight & Logistics Solutions: 🌐 Independent Venture | Logistics & Digital Solutions
+🚢 Freight & Logistics Solutions: 🌐 Independent Venture | Logistics & Digital Solutions
 
 Designed and developed independently to strengthen brand visibility, generate business opportunities, and connect with global clients through digital solutions.
 

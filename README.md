@@ -154,7 +154,9 @@ From shipping coordination to digital platforms, I focus on creating solutions t
 
 <br>
 
-<img src="https://img.shields.io/badge/PROJECT-FREIGHT%20BROKER%20PLATFORM-6C63FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+<a href="https://heena-freight-broker.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/🌍%20Live%20Website-Visit%20Project-purple?style=for-the-badge"/>
+</a>
 
 
 <div align="center">

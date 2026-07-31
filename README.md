@@ -143,7 +143,47 @@ From shipping coordination to digital platforms, I focus on creating solutions t
 
 </div>
 
+<div align="center">
 
+
+#  🌐 Freight Forwarding Digital Platform
+
+<br>
+
+### ⚡ Bridging Global Logistics With Digital Innovation
+
+<br>
+
+<img src="https://img.shields.io/badge/PROJECT-FREIGHT%20BROKER%20PLATFORM-6C63FF?style=for-the-badge&logo=vercel&logoColor=white"/>
+
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&duration=3000&pause=500&color=6C63FF&center=true&vCenter=true&width=700&lines=🚢+Global+Shipping+Network;🌍+Connecting+Businesses+Worldwide;📦+Code+%E2%80%A2+Cargo+%E2%80%A2+Commerce"/>
+
+</div>
+<br><br>
+
+An independently designed and developed freight forwarding platform created to drive business growth through digital innovation.  
+The platform transforms traditional logistics services into a modern online experience, helping businesses discover shipping solutions, generate inquiries, and connect with global freight professionals.
+
+<br>
+
+### 🛠️ Built With
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,vercel" />
+
+<br><br>
+
+<a href="https://heena-freight-broker.vercel.app/">
+<img src="https://img.shields.io/badge/🌍%20Live%20Website-Visit%20Project-purple?style=for-the-badge"/>
+</a>
+
+<br><br>
+
+**Code • Cargo • Commerce**
+
+</div>
 
 # 🌱 Currently Exploring
 

@@ -177,9 +177,6 @@ The platform transforms traditional logistics services into a modern online expe
 
 <br><br>
 
-<a href="https://heena-freight-broker.vercel.app/">
-<img src="https://img.shields.io/badge/🌍%20Live%20Website-Visit%20Project-purple?style=for-the-badge"/>
-</a>
 
 <br><br>
 

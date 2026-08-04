@@ -20,7 +20,7 @@ Building modern web experiences while connecting global logistics through techno
 <img src="https://img.shields.io/github/followers/heenaratherops?style=for-the-badge&logo=github&color=8B5CF6"/>
 </a>
 
-<a href="https://www.linkedin.com">
+<a href="https://www.linkedin.com/in/heena-rather-b8927117b">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 

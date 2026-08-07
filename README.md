@@ -33,6 +33,25 @@ By day, I coordinate air, sea, and land freight across the GCC, Asia, and global
 
 <br/>
 
+## Voyage Log — The Route So Far
+
+```
+   ⚓ DEPARTURE                                                    📍 CURRENT PORT
+   
+   2018 ─────────── 2020 ─────────── 2022 ─────────── 2024 ─────────── NOW
+     │                 │                 │                 │              │
+  B.Tech E&E      Customer Svc      Service Ops       Freight Broker   Full Stack
+  Engineering      Teleperformance   Seagull Tech      CGS · Dubai      Developer
+     │                 │                 │                 │              │
+  Foundations      Client-facing     Zendesk /         Global air/sea/  Building brand
+  in systems &      support at       Salesforce ops     land logistics  sites, GSAP
+  problem-solving   scale                                across GCC      interactives
+```
+
+**Every stop taught the next one something** — engineering discipline, client empathy, operational systems thinking, and now, the ability to ship both cargo and code.
+
+<br/>
+
 ## Featured Project — H. Freight Broker
 
 <div align="center">
@@ -51,6 +70,20 @@ By day, I coordinate air, sea, and land freight across the GCC, Asia, and global
 Built from the ground up with a navy, warm beige, and soft gold palette, the site features a cinematic HLS video hero, a 3D orbit services carousel, a GSAP-driven draggable project gallery, and a working callback form wired to email.
 
 **Stack:** React · Next.js · Tailwind CSS · GSAP · Vercel
+
+<br/>
+
+## 📋 Shipping Manifest
+
+<div align="center">
+
+| 📦 Cargo (Project) | 🏷️ Type | 🚦 Status | 🌍 Destination |
+|---|---|---|---|
+| **H. Freight Broker** | Business platform | ✅ Delivered | [Live Site](https://heena-freightbroker.netlify.app/) |
+| **Personal Portfolio** | Interactive showcase | 🚧 In transit | Building |
+| **This Profile README** | Digital storefront | ✅ Delivered | You're looking at it |
+
+</div>
 
 <br/>
 
@@ -96,7 +129,23 @@ Advanced React architecture · Three.js 3D experiences · AI-assisted UI · Clou
 ## GitHub Activity
 
 <div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=heenacgsuae5-cmd&theme=tokyonight" width="100%"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=heenacgsuae5-cmd&theme=tokyonight" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=heenacgsuae5-cmd&theme=tokyonight" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=heenacgsuae5-cmd&theme=tokyonight&utcOffset=4" width="32%"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=heenacgsuae5-cmd&theme=tokyonight&background=0D1117&stroke=8B5CF6&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6&border=8B5CF6" width="100%"/>
+
+<br/>
+
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%"/>
+
 </div>
 
 <br/>
